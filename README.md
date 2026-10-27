@@ -6,6 +6,8 @@ Repositório com os exercícios e desafios resolvidos do curso **Python 3 - Mund
 
 ```
 desafios-de-python-curso-em-video/
+├── Curso em vídeo - Python/
+│   ├── Imagens/
 ├── Mundo 1/
 │   ├── Aula 5/
 │   ├── Aula 6/
@@ -58,8 +60,7 @@ python desafio1.py
 
 - Os arquivos seguem a numeração original dos desafios propostos nas aulas
 - Alguns desafios podem ter variações (ex: `desafio21.wav` é um arquivo de áudio de apoio)
-- O arquivo `Python Mundo 3 - Gustavo Guanabara.docx` contém anotações das aulas do mundo 3 e será o padrão a partir de agora.
-
+- A pasta "Curso em vídeo - Python" contem as anorações dos meus estudos feitos a partir do obsidian (a partir do mundo 3).
 ## Referências
 - [Curso em Vídeo - Python 1](https://www.cursoemvideo.com/curso/python-3-mundo-1/)
 - [Curso em Vídeo - Python 2](https://www.cursoemvideo.com/curso/python-3-mundo-2/)
